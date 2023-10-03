@@ -1,4 +1,4 @@
-## Hi there 👋 we're GDSC at McGill! 
+## Hi there we're GDSC at McGill 👋
 
 <!--
 
